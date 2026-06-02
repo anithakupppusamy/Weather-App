@@ -24,7 +24,7 @@ body{
     border-radius:20px;
     padding:20px 10px;
     text-align:center;
-    margin:100px auto 0;
+    margin:0;
 }
 
 .search{
@@ -43,7 +43,7 @@ body{
     padding:10px 12px;
     height:45px;
     border-radius:30px;
-    font-size:14px;
+    font-size:20px;
     flex:1;
     min-width: 0;
 }
